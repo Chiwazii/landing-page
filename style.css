@@ -98,27 +98,33 @@ a {
     gap: 20px;
 }
 
+.main-2 img {
+    border-radius: 10px;
+    border: 5px solid #3882f6;
+    margin-left: 13px;
+}
+
 .main-2 .flex-wrap {
     max-width: 200px;
 }
 
 .title {
     font-size: 36px;
-    font-weight: 900;
+    font-weight: 1000;
     color: #1f2937;
     text-align: center;
+    max-height: 20px;
 }
 
 .main-3 {
     display: flex;
     justify-content: center;
-    align-items: center;
     background-color: #e5e7eb;
     padding: 40px;
 }
 
 .main-3 .flex-wrap {
-    max-width: 600px;
+    max-width: 900px;
 }
 
 .main-3 .quote {
@@ -127,8 +133,9 @@ a {
 }
 
 .main-3 .text {
-    text-align: left;
+    text-align: right;
     font-weight: bold;
+    color: #333333;
 }
 
 .main-4 {
@@ -145,3 +152,10 @@ a {
 .main-4 .button {
     border: 2px solid white;
 }
+
+.main-4 .head {
+    font-size: 20px;
+    font-weight: 600;
+    max-height: 10;
+}
+
