@@ -56,9 +56,8 @@ a {
 
 .main-1 {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    flex: 1;
     background-color: #1f2937;
     color: white;
     padding: 40px;
@@ -73,12 +72,14 @@ a {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    max-width: 500px;
 }
 
 .main-1 .head {
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+    max-height: 50;
 }
 
 .main-1 .text,
@@ -128,4 +129,19 @@ a {
 .main-3 .text {
     text-align: left;
     font-weight: bold;
+}
+
+.main-4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 10px 5px;
+    margin: 40px 80px;
+    color: #f9faf8;
+}
+
+.main-4 .button {
+    border: 2px solid white;
 }
