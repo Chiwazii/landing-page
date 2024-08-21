@@ -40,6 +40,11 @@ a {
     color: white;
 }
 
+.header h2 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
 .footer {
     display: flex;
     justify-content: center;
@@ -53,6 +58,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1;
     background-color: #1f2937;
     color: white;
     padding: 40px;
@@ -75,20 +81,51 @@ a {
     color: #f9faf8;
 }
 
+.main-1 .text,
+a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .main-2 {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    flex: 1;
     padding: 40px;
     gap: 20px;
 }
 
-.column {
-    display: flex;
-
+.main-2 .flex-wrap {
+    max-width: 200px;
 }
 
-.flex-wrap {
-    max-width: 200px;
+.title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+}
+
+.main-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding: 40px;
+}
+
+.main-3 .flex-wrap {
+    max-width: 600px;
+}
+
+.main-3 .quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.main-3 .text {
+    text-align: left;
+    font-weight: bold;
 }
