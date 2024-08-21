@@ -17,6 +17,21 @@ a {
     color: inherit;
 }
 
+.button {
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    border-style: 1px white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -44,7 +59,7 @@ a {
     padding: 40px;
 }
 
-.main-1 .text {
+.main-1 .left-side {
     display: flex;
     flex-direction: column;
 }
