@@ -1,7 +1,7 @@
 # landing-page
 
 
-This project is going to showcase what I have learned so far in HTML and CSS to create a landing page with a header, footer, and 3 main sections using flexbox. 
+This project is going to showcase what I have learned so far in HTML and CSS to create a landing page with a header, footer, and 4 main sections using flexbox. 
 
 
 
@@ -24,5 +24,8 @@ Birmingham Museums Trust
 
 link: Photo by <a href="https://unsplash.com/@birminghammuseumstrust?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"><strong>Birmingham Museums Trust</strong></a> on <a href="https://unsplash.com/photos/brown-and-grey-trees-and-rock-formation-painting-wKlHsooRVbg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-link: Photo by <a href="https://unsplash.com/@birminghammuseumstrust?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"><strong>Birmingham Museums Trust</strong></a> on <a href="https://unsplash.com/photos/angel-in-blue-dress-painting-JZdPBgU6Nik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Pawel Czerwinski
+
+link: Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pawel Czerwinski</a> on <a href="https://unsplash.com/photos/pink-and-green-abstract-art-ruJm3dBXCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
   
